@@ -42,7 +42,7 @@ I'm a passionate developer and lifelong learner who enjoys solving problems, bui
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/muradul-islam/)
 - 📧 [muradulislam.mi02@gmail.com](mailto:muradulislam.mi02@gmail.com)
-- 🌍 Portfolio: *Coming soon...*
+- 🌍 Portfolio: [Portfolio](https://muradul-islam-portfolio.netlify.app/)
 
 ---
 
