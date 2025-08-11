@@ -40,7 +40,7 @@ I'm a passionate developer and lifelong learner who enjoys solving problems, bui
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/muradul-islam/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/muradul-islam-100982364/)
 - 📧 [muradulislam.mi02@gmail.com](mailto:muradulislam.mi02@gmail.com)
 - 🌍 Portfolio: [Portfolio](https://muradul-islam-portfolio.netlify.app/)
 
