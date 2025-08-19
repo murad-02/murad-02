@@ -9,6 +9,8 @@
 </p>
 
 ---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Deep+Learning+Practitioner;Data+Science+Explorer;AI+Researcher)](https://git.io/typing-svg)
+
 
 ## 🧑‍🔬 About Me  
 
@@ -53,4 +55,8 @@ I believe in **continuous learning** and combining theory with hands-on experime
 - 🌍 [Portfolio](https://muradul-islam-portfolio.netlify.app/)  
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" alt="Neural network animation">
+</p>
+
 <p align="center">⭐ Thanks for visiting my profile! Let’s collaborate on impactful ML/DL projects 🚀</p>
